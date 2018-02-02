@@ -1,0 +1,48 @@
+
+.ln_solid{
+	margin: 5px 0;
+}
+.btn{
+	height: 25px;
+	line-height: 12px;
+}
+.x_panel{
+	padding: 0px 0px;
+}
+.x_content {
+    padding: 0px 5px 3px;
+    float: left;
+    clear: both;
+    margin-top: 0px;
+   
+}
+.x_title {
+    margin-bottom: 0px; 
+
+}
+.x_title h2 {
+    margin: 7px 0 6px;
+   
+}
+.x_title {
+    
+    padding: 0px 5px 0px;
+}
+.nav>li>a {
+    padding: 6px 15px 7px;
+}
+.info-number .badge {
+    top: 2px;
+}
+.form-control {
+    height: 25px;
+    padding: 0px 12px;
+ }
+ .form-control-feedback {
+    margin-top: 1px;
+ }
+ .site_title{
+ 	padding-left: 4px;
+    padding-right: 8px;
+ }
+ /* sÆ°̀‰a tab thì€  xoà� bar_tabs Ä‘i nhè� hihi*/
