@@ -21,14 +21,17 @@
     			
     			<div class="row">
             		<div class="col-md-12 col-sm-12 col-xs-12">
-            			Thay nội dung page content vào chỗ này.
+            	<!-- 		 <h:inputTextarea cols="20" rows="100" id="texteditor"></h:inputTextarea> -->
+            				<textarea rows="4" cols="20" id="texteditor"></textarea>
             		</div>
             	</div>
-            	
+        	<script>
+					var editor = CKEDITOR.replace('texteditor');
+					CKFinder.setupCKEditor(editor,'resources/js/ckfinder');
+            	</script>
             <!-- =================================================================================================-->	
     		</ui:define>
 		</ui:composition>
-    	
     </h:body>
 
 </html>
